@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+.eggs/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# PyInstaller
+*.exe
+*.app
+*.deb
+
+# MacOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Log files
+*.log
+
+# Docker-related
+*.tar
+docker-compose.override.yml
+.docker/
+
+# dotenv environment variable files
+.env
+.env.*
+
+# Ignore spacy downloaded models (if placed locally)
+spacy_data/

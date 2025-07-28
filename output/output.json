@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "timestamp": "2025-07-28T13:19:23.972748+00:00"
+  },
+  "sections": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page": 9,
+      "section_title": "Bratkartoffeln (Fried Potatoes)",
+      "importance_rank": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page": 11,
+      "section_title": "Ca Tim Nuong (Grilled Eggplant)",
+      "importance_rank": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page": 13,
+      "section_title": "Nom Du Du (Green Papaya Salad)",
+      "importance_rank": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page": 10,
+      "section_title": "Rotkohl (Braised Red Cabbage)",
+      "importance_rank": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page": 15,
+      "section_title": "Gurkensalat (Cucumber Salad)",
+      "importance_rank": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page": 4,
+      "section_title": "K\u00e4sesp\u00e4tzle (Cheese Noodles)",
+      "importance_rank": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page": 15,
+      "section_title": "Som Tum (Green Papaya Salad)",
+      "importance_rank": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page": 4,
+      "section_title": "Chicken Salad Lettuce Wraps",
+      "importance_rank": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page": 13,
+      "section_title": "Almond Butter Banana Toast",
+      "importance_rank": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page": 10,
+      "section_title": "R\u00f6sti (Potato Pancakes)",
+      "importance_rank": 10
+    }
+  ],
+  "subsections": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page": 9,
+      "refined_text": "In a skillet, heat olive oil over medium heat. Saut\u00e9 onion, garlic, zucchini, and bell pepper",
+      "importance_rank": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page": 9,
+      "refined_text": "In a baking dish, spread a thin layer of marinara sauce. Layer 3 noodles, half the ricotta",
+      "importance_rank": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page": 4,
+      "refined_text": "Pour white wine, chicken broth, and lemon juice into the skillet, simmer until reduced by",
+      "importance_rank": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page": 13,
+      "refined_text": "In a bowl, mix minced garlic, olive oil, chopped dill, chopped parsley, salt, and pepper.",
+      "importance_rank": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page": 1,
+      "refined_text": "In a large baking dish, layer diced eggplant, zucchini, bell pepper, onion, and tomatoes.",
+      "importance_rank": 5
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page": 7,
+      "refined_text": "In a bowl, mix oats, honey or maple syrup, peanut butter, nuts, dried fruit, and vanilla",
+      "importance_rank": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page": 5,
+      "refined_text": "Layer with 3 lasagna noodles, 1/3 of the ricotta mixture, 1/3 of the meat sauce, and 1/3",
+      "importance_rank": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page": 8,
+      "refined_text": "Return chicken to the skillet and simmer for 30 minutes until chicken is cooked through.",
+      "importance_rank": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page": 10,
+      "refined_text": "In a baking dish, layer eggplant slices, marinara sauce, and shredded mozzarella cheese.",
+      "importance_rank": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page": 12,
+      "refined_text": "In the same pot, saut\u00e9 diced onion, minced garlic, and diced bell pepper until softened.",
+      "importance_rank": 10
+    }
+  ]
+}
