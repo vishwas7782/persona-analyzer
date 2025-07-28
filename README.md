@@ -55,7 +55,6 @@ The final output JSON has the following structure:
     "section_title": "INTRODUCTION TO GRAPH NEURAL NETWORKS",
     "importance_rank": 1
   },
-  ...
 ],
 "subsections": [
   {
@@ -64,7 +63,6 @@ The final output JSON has the following structure:
     "refined_text": "The study explores how GNNs outperform traditional methods...",
     "importance_rank": 1
   },
-  ...
 ]
 }
 ````
@@ -154,7 +152,6 @@ spacy==3.7.2
 
 Team Hello World — Adobe India Hackathon 2025
 
-```
 **Vishwasjeet Kumar Gupta**  
 BTech CSE | FullStack Developer  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishwasjeet-kumar-gupta-62814018a/)
@@ -162,4 +159,3 @@ BTech CSE | FullStack Developer
 **Tushar Kumar Chamlikar**  
 BTech CSE | FullStack Developer  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tushar-chamlikar-641726275/)
-```
