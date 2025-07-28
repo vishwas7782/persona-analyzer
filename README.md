@@ -94,7 +94,6 @@ docker build --platform linux/amd64 -t persona-analyzer .
 ### Run Container
 
 ```bash
-docker build --platform linux/amd64 -t persona-analyzer .
 docker run --rm -v ${PWD}\input:/app/input:ro -v ${PWD}\output:/app/output --network none persona-analyzer     
 ```
 
